@@ -1,6 +1,6 @@
 Hello! I'm @heathstannard 👋
 
-I've been a Drupal developer for many years, starting around 2006. I was certified by Acquia as a Drupal Grandmaster. I'm always open to short/medium term Drupal contracts.
+I've been a Drupal developer for many years, starting around 2006. I was certified by Acquia as Drupal Triple Certified. I'm always open to short/medium term Drupal contracts.
 
 Recently I've been interested in frontend frameworks - experimenting with many but concentrating mainly on Vue.js. I'm also about to get started creating my first Android/iOS app.
 
