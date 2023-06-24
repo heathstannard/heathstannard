@@ -6,6 +6,6 @@ Recently I've been interested in frontend frameworks - experimenting with many b
 
 I run a Fantasy Hockey 🏒 platform that utilises 2 technologies mentioned above - Drupal & Vue.js. [Mighty Pucks](https://www.mightypucks.com)
 
-I am originally from New Zealand 🇳🇿 and am now based in Quebec, Canada 🇨🇦.
+I am originally from New Zealand 🇳🇿, now based in Quebec, Canada 🇨🇦.
 
 - [LinkedIn](https://www.linkedin.com/in/heathstannard/)
